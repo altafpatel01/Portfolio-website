@@ -1,5 +1,5 @@
 import MiStore from '../assets/projects/Screenshotmistoe.png'
-import RealEst from '../assets/projects/realestate.jpg'
+import Movie from '../assets/projects/Screenshotmovie.png'
 import Ecommerce from '../assets/projects/Screenshot.png'
 
 export const data=[
@@ -13,9 +13,9 @@ export const data=[
     {
         id:2,
         name:"React JS Application",
-        image:RealEst,
-        github:"",
-        live:"",
+        image:Movie,
+        github:"https://github.com/altafpatel01/movie-app",
+        live:"https://altafpatel01.github.io/movie-app/",
     },
    
     
