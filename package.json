@@ -1,7 +1,7 @@
 {
   "name": "portfolio-react-app",
   "version": "0.1.0",
-  "homepage": "https://altafpattel01.github.io/portfolio-website",
+  "homepage": "https://altafpatel01.github.io/portfolio-website/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
